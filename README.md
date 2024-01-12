@@ -1,18 +1,17 @@
 
 # Project in my second terms
 
-A brief description of what this project does and who it's for
-
+If we wait until ew are ready we'll be waiting the rest of our lives
 
 ## FAQ
 
-#### Question 1
+#### How are you doing?
 
-Answer 1
+I'm doing well
 
-#### Question 2
+#### What time is it now?
 
-Answer 2
+4:15 PM
 
 
 # Hi, I'm PHOMMASENG EKALAT 👋
